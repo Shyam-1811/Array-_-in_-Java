@@ -2,4 +2,13 @@
 /array2.class
 /inputoutput.class
 /question1.class
+<<<<<<< HEAD
 /linearSearch.class
+=======
+/linearSearch.class
+/secondMax.class
+/max.class
+/question2.class
+/maxElement.class
+/question1.class
+>>>>>>> 98e20e7 (second commit)
